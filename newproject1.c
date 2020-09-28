@@ -8,20 +8,15 @@
 /*
 TEAM PERCENTAGES
 ----------------------------------------------------
-Jordan Amberg - n% - wrote quiz1(programmed and wrote questions) and various bug fixes
 Jordan Amberg - 20% - wrote quiz1(programmed and wrote questions) and various bug fixes
 ----------------------------------------------------
-Sami Bensellam - n% - wrote questions, created some code, minor edits, bug fixes  
 Sami Bensellam - 20% - wrote questions, created some code, minor edits, bug fixes
 ----------------------------------------------------
-Cole Eichacker - n% - wrote questions, verified code, fixed bugs and finished code segments
 Cole Eichacker - 20% - wrote questions, verified code, fixed bugs and finished code segments
 ----------------------------------------------------
-Joseph Trembley - n%
-Joseph Trembley - 20% - programmed quiz 3, testing
+Joseph Trembley - 20% - programmed quiz 3, testing, bug fixes
 ----------------------------------------------------
-Samuel Kidane - n%
-Samuel Kidane - 20%
+Samuel Kidane - 20% - wrote quiz 2 (programmed and wrote questions)
 */
 
 
